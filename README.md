@@ -1,4 +1,4 @@
-# 📚 Yearly Book Orders Analytics – SQL + Power BI
+# 📚 Crossword Bookstore Analytics – Excel + SQL + Power BI
 
 This project showcases a comprehensive book sales analysis using SQL for data querying and Power BI for visualization.
 
