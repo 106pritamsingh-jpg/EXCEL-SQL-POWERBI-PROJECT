@@ -36,5 +36,4 @@ This project showcases a comprehensive book sales analysis using SQL for data qu
 - Remaining stock after all orders
 - Grouped analytics by genre, author, and customer
 
-> Full SQL script available in [`project_queries.sql`](project_queries.sql)
 
